@@ -1,0 +1,12 @@
+/* % values-relative, dependence upon the parent*/
+.outer{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    text-align: center;
+}
+.inner{
+    width: 50%;
+    height: 50%;
+    background-color: red;
+}

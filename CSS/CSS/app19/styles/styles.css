@@ -1,0 +1,12 @@
+/* units is css
+pixels-absolute value-not depending upon the parent one dot on the screen */
+/* width=widthof an element
+height=height of an element
+font-size=size of an element*/
+h1{
+    font-size: 60px;
+    background-color: blue;
+    color: white;
+    width: 1000px;
+    height: 800px;
+}

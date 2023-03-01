@@ -1,0 +1,32 @@
+#title{
+    color: green;
+}
+.green_uppercase{
+    color: blue;
+    text-transform: uppercase;
+}
+.blue_uppercase{
+    color: brown;
+    text-transform: uppercase;
+}
+#bluetitle{
+    color: blue;
+}
+.dodger{
+    color: dodgerblue;
+}
+.red{
+    color: brown;
+}
+.yellow{
+    color: yellow;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+#uppercase{
+    text-transform: uppercase;
+}
+.Cyan{
+    color: cyan;
+}

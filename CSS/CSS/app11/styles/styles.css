@@ -1,0 +1,19 @@
+/* DIV AND SPAN USED FOR GROUPING PURPOSE */
+/* DIV-USED TO GROUP MULTIPLE ELEMENTS BLOCK LEVEL ELEMENT*/
+/*SPAN- USED TO GROUP INLINE CONTENT*/
+.green{
+    color: green;
+    background: yellow;
+}
+.red{
+    color: red;
+    background: black;
+}
+span{
+    /*display: block;*/
+    text-transform: uppercase;
+}
+.text{
+    background: white;
+    color: blue;
+}
